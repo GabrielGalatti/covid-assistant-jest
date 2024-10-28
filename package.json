@@ -12,7 +12,9 @@
   "author": "Gabriel Galatti",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "openai": "^4.68.4",
     "zod": "^3.23.8"
   },
   "devDependencies": {
